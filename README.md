@@ -1,8 +1,3 @@
-Racja, bez sensu. Oto treść do skopiowania:
-
----
-
-```markdown
 # Michał Koliński — Cybersecurity Portfolio
 
 🎯 SOC Analyst L1 | Blue Team | Incident Response  
